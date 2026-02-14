@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "HANABI",
+  "base_artist": "FOMARE",
+  "createdAt": "2026-02-14T15:58:16.152268Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hanabi",
+      "artist": "WagakkiBand",
+      "has_synced": false,
+      "path": "select/01_Hanabi_WagakkiBand.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "After Hanabi -Listen To My Beats-",
+      "artist": "Nujabes",
+      "has_synced": false,
+      "path": "select/02_After_Hanabi_-Listen_To_My_Beats-_Nujabes.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hanabi",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/03_Hanabi_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hanabi",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/04_Hanabi_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Uchiage Hanabi from Fireworks",
+      "artist": "Kotoband feat. Misty M. & Gareth W.",
+      "has_synced": true,
+      "path": "select/05_Uchiage_Hanabi_from_Fireworks_Kotoband_feat._Misty_M._&_Gareth_W..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Uchiage Hanabi from Fireworks",
+      "artist": "Kotoband",
+      "has_synced": true,
+      "path": "select/06_Uchiage_Hanabi_from_Fireworks_Kotoband.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Utakata Hanabi",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/07_Utakata_Hanabi_supercell.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Uchiage Hanabi",
+      "artist": "DAOKO & Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/08_Uchiage_Hanabi_DAOKO_&_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hanabi",
+      "artist": "androp",
+      "has_synced": true,
+      "path": "select/09_Hanabi_androp.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hanabi - one-man live tour 2018 \"cocoon\" tour final",
+      "artist": "androp",
+      "has_synced": false,
+      "path": "select/10_Hanabi_-_one-man_live_tour_2018__cocoon__tour_final_androp.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hanabi (one-man live tour 2018 “cocoon” tour final)",
+      "artist": "androp",
+      "has_synced": false,
+      "path": "select/11_Hanabi_(one-man_live_tour_2018_“cocoon”_tour_final)_androp.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hanabi!!",
+      "artist": "Pile",
+      "has_synced": true,
+      "path": "select/12_Hanabi!!_Pile.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "After Hanabi (Listen to my Beats)",
+      "artist": "Nujabes",
+      "has_synced": false,
+      "path": "select/13_After_Hanabi_(Listen_to_my_Beats)_Nujabes.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "HANABI",
+      "artist": "ClariS",
+      "has_synced": false,
+      "path": "select/14_HANABI_ClariS.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Utakata Hanabi",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/15_Utakata_Hanabi_supercell.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HANABI",
+      "artist": "FOMARE",
+      "has_synced": false,
+      "path": "select/pl_01_HANABI_FOMARE.txt"
+    }
+  ]
+}
